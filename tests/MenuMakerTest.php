@@ -53,8 +53,7 @@ class MenuMakerTest  extends TestCase {
     
     public function testExpiredIngredient() {
         //Mixed salad has expired, so instead of salad sandwich we should get cheese on toast
-        $result = $this->MenuMaker->findRecipe($this->testInputDir.'expired/fridge-list.csv', $this->testInputDir.'expired/recipes.json');
-        var_dump($result);
+        $result = $this->MenuMaker->findRecipe($this->testInputDir.'expired/fridge-list.csv', $this->testInputDir.'expired/recipes.json');        
         $this->assertEquals('Grilled Cheese On Toast', $result);
     }
 }
