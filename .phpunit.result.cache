@@ -1,1 +1,0 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":232:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:4:{s:31:"MenuMakerTest::testMissingInput";d:0.001;s:29:"MenuMakerTest::testEmptyInput";d:0;s:40:"MenuMakerTest::testNoMatchingIngredients";d:0;s:36:"MenuMakerTest::testExpiredIngredient";d:0;}}}
