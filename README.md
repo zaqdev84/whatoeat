@@ -6,7 +6,7 @@ the json recipe data. How you choose to implement this is up to you;\
 you can write a console application which takes input file names as\
 command line args, or as a web page which takes input through a form.\
 The only rule is that it must run and return a valid result using the\
-provided input data.\
+provided input data.
 
 ## Usage
 ```
