@@ -1,4 +1,4 @@
-Given a list of items in the fridge (presented as a csv list), and a
+Given a list of items in the fridge (presented as a csv list), and a\n
 collection of recipes (a collection of JSON formatted recipes),
 produce a recommendation for what to cook tonight.
 Program should be written to take two inputs; fridge csv list, and
@@ -29,7 +29,7 @@ provided input data.
 ```
 
 ## Tests
-PHPUnit can be installed via Composer as it is in the project's composer.json file. For more details on how to install PHPUnit click [here](http://phpunit.de/manual/current/en/installation.html)
+PHPUnit can be installed via Composer before executing tests. For more details on how to install PHPUnit click [here](http://phpunit.de/manual/current/en/installation.html)
 
 You can run a PHPUnit test with the following command
 ```
