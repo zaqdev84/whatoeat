@@ -29,7 +29,7 @@ provided input data.
 ```
 
 ## Tests
-PHPUnit can be installed via Composer before executing tests. For more details on how to install PHPUnit click [here](http://phpunit.de/manual/current/en/installation.html)
+PHPUnit can be installed via Composer before executing tests. 
 
 You can run a PHPUnit test with the following command
 ```
