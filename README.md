@@ -1,12 +1,12 @@
-Given a list of items in the fridge (presented as a csv list), and a
-collection of recipes (a collection of JSON formatted recipes),
-produce a recommendation for what to cook tonight.
-Program should be written to take two inputs; fridge csv list, and
-the json recipe data. How you choose to implement this is up to you;
-you can write a console application which takes input file names as
-command line args, or as a web page which takes input through a form.
-The only rule is that it must run and return a valid result using the
-provided input data.
+Given a list of items in the fridge (presented as a csv list), and a\
+collection of recipes (a collection of JSON formatted recipes),\
+produce a recommendation for what to cook tonight.\
+Program should be written to take two inputs; fridge csv list, and\
+the json recipe data. How you choose to implement this is up to you;\
+you can write a console application which takes input file names as\
+command line args, or as a web page which takes input through a form.\
+The only rule is that it must run and return a valid result using the\
+provided input data.\
 
 ## Usage
 ```
